@@ -1,0 +1,15 @@
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Instrumenting/bin/Debug/net5.0/Instrumenting.deps.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Instrumenting/bin/Debug/net5.0/Instrumenting.runtimeconfig.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Instrumenting/bin/Debug/net5.0/Instrumenting.runtimeconfig.dev.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Instrumenting/bin/Debug/net5.0/Instrumenting.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Instrumenting/bin/Debug/net5.0/ref/Instrumenting.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Instrumenting/bin/Debug/net5.0/Instrumenting.pdb
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Instrumenting/obj/Debug/net5.0/Instrumenting.csprojAssemblyReference.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Instrumenting/obj/Debug/net5.0/Instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Instrumenting/obj/Debug/net5.0/Instrumenting.AssemblyInfoInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Instrumenting/obj/Debug/net5.0/Instrumenting.AssemblyInfo.cs
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Instrumenting/obj/Debug/net5.0/Instrumenting.csproj.CoreCompileInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Instrumenting/obj/Debug/net5.0/Instrumenting.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Instrumenting/obj/Debug/net5.0/ref/Instrumenting.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Instrumenting/obj/Debug/net5.0/Instrumenting.pdb
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Instrumenting/obj/Debug/net5.0/Instrumenting.genruntimeconfig.cache
