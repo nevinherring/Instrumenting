@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "ljpd0h8Om+0Pu1hb0dY+MBU6y/icTp/8FOo/OjaugwRF/kc/o+MIvb+WTszQ6T4LYmSRbj0elXQ8Xu4Z3asQRg==",
+  "dgSpecHash": "ic0/m6xSZ/HEqCyYaPg7QlQLq33uc9Y974w+ORcr65m5Q2gYpgQV8t4PEl9QRLBACqp8nf3Qmf9Q/Z7OzuGA7w==",
   "success": true,
   "projectFilePath": "/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter04/Chapter04.code-workspace/Instrumenting/Instrumenting.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/herringfamily/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "/Users/herringfamily/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/Users/herringfamily/.nuget/packages/microsoft.extensions.configuration.binder/5.0.0/microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "/Users/herringfamily/.nuget/packages/microsoft.extensions.configuration.fileextensions/5.0.0/microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "/Users/herringfamily/.nuget/packages/microsoft.extensions.configuration.json/5.0.0/microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "/Users/herringfamily/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/herringfamily/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/herringfamily/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/herringfamily/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
